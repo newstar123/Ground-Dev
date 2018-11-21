@@ -1,0 +1,40 @@
+.widgets {
+
+}
+
+.widgets--primary {
+
+}
+
+.widgets--secondary {
+
+}
+
+.widget {
+
+	ul {
+
+		li {
+
+			&:first-child {}
+
+			&:last-child {}
+
+			a {}
+
+			ul {}
+
+		}
+
+	}
+
+}
+
+
+.widget__title {
+
+}
+
+.no-widgets {
+
+}
